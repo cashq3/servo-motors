@@ -1,5 +1,5 @@
 #include <Servo.h>
-Servo m1,m2,m3,m4,m5,ma;
+Servo m1,m2,m3,m4,m5;
   
 void setup(){
 
